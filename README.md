@@ -1,6 +1,5 @@
 # Applied-Data-Analysis
 
-__The course notes for the Applied Data Analysis in Python course at the University of Bristol.__
 
 ---
 
