@@ -1,9 +1,8 @@
 # Applied-Data-Analysis
 
+Over the years, Python has become a very popular tool for analysing data. These days it comes with support from many tools to do machine learning, data querying, neural networks and exploratory analysis.
 
 ---
-
-Over the years, Python has become a very popular tool for analysing data. These days it comes with support from many tools to do machine learning, data querying, neural networks and exploratory analysis.
 
 The course will introduce some techniques for analysing data in Python. It will teach some features of scipy and scikit-learn for discovering trends and details of your data and how to display your results using Python's plotting tools.
 
